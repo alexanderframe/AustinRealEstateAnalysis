@@ -1,0 +1,1 @@
+Our project is to uncover patterns in the Austin real estate market. We’ll examine relationships between median household income, Austin neighborhoods, crime rates, transit, school rankings, and other related questions, as the data allows.
